@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.pddlin.loggerithm",
+        "sha256_cert_fingerprints": ["E6:E2:F7:94:E3:C4:86:CE:43:D0:D8:7A:BB:F7:35:5E:A9:BB:7D:04:F0:FF:08:15:9D:C7:B6:72:53:E7:EA:8B"]
+      }
+    }]
